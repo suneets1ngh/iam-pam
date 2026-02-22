@@ -4,7 +4,7 @@
 
 **JIT: Just In Time** is simply a way to provision time-bound privileges to an account only when needed/requested.
 
-There is one way to achieve that in our current environment using only Secret Server, which will help us eliminate standing Administrator/privileged accounts.
+There is one way to achieve that in using only Secret Server, which will help eliminate standing Administrator/privileged accounts.
 
 ---
 
