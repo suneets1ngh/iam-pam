@@ -1,4 +1,4 @@
-# Just-In-Time (JIT) Access Using Delinea Secret Server
+# Delinea Secret Server Just-In-Time (JIT) Privileged Access Implementation Guide
 
 ## Overview
 
