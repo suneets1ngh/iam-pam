@@ -20,10 +20,7 @@ The script retrieves component information through the **Delinea Platform and Se
 
 ## Architecture
 
-```text
-<img width="1024" height="1536" alt="Delinea Email Alert" src="https://github.com/user-attachments/assets/2b7035fa-9b3d-4676-b998-f899b8cf5874" />
-
-```
+<img width="1024" height="1536" alt="Delinea Email Alert" src="https://github.com/user-attachments/assets/b9c7a61e-795f-43fd-8d7e-77214642f073" />
 
 ## Requirements
 
